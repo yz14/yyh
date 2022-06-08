@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 心理学
+title: UI components
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components
