@@ -2,7 +2,7 @@
 layout: default
 title: 写在前面
 nav_order: 2
-description: "YZ's notes."
+description: "first"
 permalink: /
 ---
 
