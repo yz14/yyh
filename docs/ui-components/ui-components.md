@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 心理学
-nav_order: 2
+nav_order: 3
 has_children: true
-permalink: /docs/psy
+permalink: /docs/ui-components
 ---
 
 # 心理学
