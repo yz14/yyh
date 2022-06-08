@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Back":
+  "返回":
     - ""
 
 # Makes Aux links open in a new tab. Default is false
