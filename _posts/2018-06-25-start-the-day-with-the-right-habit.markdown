@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  养蜂人的日常生活
+title:  1
 date:   2023-03-18 12:44:35 +0300
 image:  06.jpg
 tags:   Style
